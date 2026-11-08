@@ -1,0 +1,6 @@
+{
+  "name": "Báo Nói AI - Chuyển Link Báo Thành Giọng Đọc & Tải MP3",
+  "description": "Dán liên kết bài báo, hệ thống tự động trích xuất nội dung chính, tạo giọng đọc tiếng Việt truyền cảm và tự động tải file MP3 về máy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
